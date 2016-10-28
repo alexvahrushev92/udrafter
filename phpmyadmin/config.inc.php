@@ -14,7 +14,7 @@
  * This is needed for cookie based authentication to encrypt password in
  * cookie. Needs to be 32 chars long.
  */
-$cfg['ba92c1e07d65092'] = ''; /* YOU MUST FILL IN THIS FOR COOKIE AUTH! */
+$cfg['encryptudrafter'] = ''; /* YOU MUST FILL IN THIS FOR COOKIE AUTH! */
 
 /**
  * Servers configuration
