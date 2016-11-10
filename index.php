@@ -11,7 +11,4 @@
 <H3> connecting...</H3>
 </body>
 </html>
-<?php
-    echo "hello world!!!";
-?>
 
