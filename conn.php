@@ -1,7 +1,7 @@
 <?php
 $servername = "udrafter.database.windows.net";
 $username = "dbadmin";
-$password = "Pa$$w0rd";
+$password = "Pa$$";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
