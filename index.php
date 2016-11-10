@@ -7,7 +7,7 @@
 <body>
 
 <H2> we deployed database</H2>
-
+<?php echo "hello world"; ?>
 </body>
 </html>
 
