@@ -9,6 +9,7 @@
 <H2> we deployed database</H2>
 <br/>
 <?php
+echo "hello";
 $servername = "eu-cdbr-azure-west-a.cloudapp.net";
 $username = "b6ad17a3124efa";
 $password = "721ca477";
