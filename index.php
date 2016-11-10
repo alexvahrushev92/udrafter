@@ -16,9 +16,9 @@
 ?>
 
 <?php
-$servername = "udrafterdbserver.database.windows.net";
-$username = "dbserveradmin";
-$password = "Udrafter$$2016";
+$servername = "eu-cdbr-azure-west-a.cloudapp.net";
+$username = "b80f75f9cd38fe";
+$password = "c069e447";
 
 try {
         $conn = new PDO("mysql:host=$servername;dbname=myDB", $username, $password);
